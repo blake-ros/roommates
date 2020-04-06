@@ -22,5 +22,9 @@ Link: https://roommates.blakeros.com
 - User can view expiration dates of food items in a fridge
 - User can view food by categories in a fridge
 - User can chat with other fridge members
+- User can view all groceries in a fridge
+- User can view his/her groceries in a fridge
 
 ## Preview
+
+![](server/public/images/roommatesAppPreview.PNG)
