@@ -6,7 +6,7 @@ A dynamic web application for roommates/spouse/co-inhabitants who want to organi
 - Webpack 4
 - Bootstrap 4
 - Node.js
-- Postgresql
+- PostgreSQL
 
 ## Live Demo
 
